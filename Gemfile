@@ -20,6 +20,8 @@ gem 'simple_form'
 
 gem 'devise'
 
+gem 'omniauth-facebook'
+
 group :doc do
   gem 'sdoc', require: false
 end
