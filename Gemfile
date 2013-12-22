@@ -24,6 +24,8 @@ gem 'omniauth-facebook'
 
 gem 'flat-ui-rails'
 
+gem 'koala'
+
 group :doc do
   gem 'sdoc', require: false
 end
