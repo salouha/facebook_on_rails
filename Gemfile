@@ -22,6 +22,8 @@ gem 'devise'
 
 gem 'omniauth-facebook'
 
+gem 'flat-ui-rails'
+
 group :doc do
   gem 'sdoc', require: false
 end
